@@ -1,0 +1,10 @@
+/* 隐藏滚动条 */
+::-webkit-scrollbar {
+    display: none;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
